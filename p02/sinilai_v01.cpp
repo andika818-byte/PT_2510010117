@@ -6,6 +6,7 @@ int main() {
     // Data mahasiswa
     string nama;
     string npm;
+    string program_studi;
 
     // Nilai mahasiswa
     double kehadiran = 0;
