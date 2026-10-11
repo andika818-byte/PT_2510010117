@@ -1,0 +1,1 @@
+Bagian yang berulang adalah proses pengecekan kondisi nilai akhir menggunakan percabangan if-else. Kondisi diperiksa secara berurutan dari nilai tertinggi ke nilai terendah sampai ditemukan kondisi yang benar, kemudian huruf mutu ditentukan sesuai dengan nilai akhir mahasiswa.
