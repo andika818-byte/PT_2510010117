@@ -37,5 +37,4 @@ menjadi 0; obatnya dibahas di Pertemuan 7).
 Folder `p05` di repository `pt-NPM` berisi `sinilai_v04.cpp`. Lihat Modul Pertemuan 5 bagian E.
 
 ## Deklarasi AI
-
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+Saya menggunakan AI untuk mengecek apakah hasil kerja tugas saya sudah benar atau belum dan AI menilai serta memperbaiki kesalahan yang saya buat, setelah itu memberikan penjelasan yang saya tidak menegerti
